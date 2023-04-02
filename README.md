@@ -39,4 +39,4 @@ https://user-images.githubusercontent.com/82417779/229358281-053e6b37-1997-42e8-
 - We can add more filters and sort options.
 
 ## Deployment
-The web application will be deployed in a public server and the link will be uploaded here :down_right:
+The web application will be deployed in a public server and the link will be uploaded here ⬇️:
