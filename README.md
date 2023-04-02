@@ -1,4 +1,4 @@
-# Ai-News-Scrapper
+# Ai-News-Radar
 A website for scrapping ai news from different websites over the internet and displays them in a useful way.
 This project is part of the **AI Night Challenge**, and it is proposed by **Pristini AI University**.
 
@@ -37,3 +37,6 @@ https://user-images.githubusercontent.com/82417779/229358281-053e6b37-1997-42e8-
 ## Future Enhancements
 - We can let the user define the depth of the search. (send it in a get request)
 - We can add more filters and sort options.
+
+## Deployment
+The web application will be deployed in a public server and the link will be uploaded here :down_right:
